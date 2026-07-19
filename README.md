@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Нейросети, которые работают из России — 2026](assets/hero.png)
+![Нейросети, которые работают из России — 2026](assets/hero.jpg)
 
 🌐 **Удобная веб-версия списка:** [verunaai.github.io/awesome-neuroseti-ru](https://verunaai.github.io/awesome-neuroseti-ru/)
 
