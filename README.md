@@ -33,6 +33,7 @@
 | [VseGPT](https://vsegpt.ru) | Да, оплата российскими способами | Частично — пробный баланс, далее pay-per-token | 120+ моделей (GPT-5, Claude Opus, Gemini, FLUX, Kling, Veo, Sora): веб-чат и OpenAI-совместимый API для разработчиков, от 199 ₽/мес |
 | [ChadGPT](https://chadgpt.ru) | Да, оплата через Т-Банк | Да — пробный доступ при регистрации | «Одна подписка вместо десятка»: ChatGPT, Claude, Grok, DeepSeek, Gemini плюс Midjourney, Sora, Runway, Kling, Suno. Приложения iOS/Android и Telegram-бот |
 | [GoGPT](https://gogpt.ru) | Да, без VPN и номера телефона | Да — до 10 запросов в день на базовых моделях | ChatGPT, Claude, DeepSeek, Grok, Midjourney, Veo, Sora, Suno. Веб, Telegram-бот и API, тарифы от 699 ₽/мес |
+| [FastSubs](https://fastsubs.org) | Да, без VPN, оплата российской картой и через СБП | Частично — $1 промо-баланса на 7 дней при регистрации | Около 100 моделей: GPT, Claude, Gemini, DeepSeek, Grok, Veo, Kling, Suno. Сайт, Telegram-бот, приложения и API; оплата за запросы или тариф. |
 
 ## Чат-боты и тексты
 
